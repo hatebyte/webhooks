@@ -23,7 +23,7 @@ class WebHooksTests: XCTestCase {
     
     func testExample() {
         // This is an example of a functional test case.
-        XCTAssertTrue(true, "Passing test.")
+        XCTAssertTrue(true, "Passing test. WOOT TEST AGAIN")
     }
     
 }
